@@ -114,6 +114,17 @@ function App() {
     return additionalRows;
   };
 
+  useEffect(() => {
+    if (gameState === "over") {
+      setNotificationMessage("Game Over!");
+      setIsNotifyAnimation(true);
+
+      setTimeout(() => {
+        setIsNotifyAnimation(false);
+      }, 3000);
+    }
+  }, [gameState]);
+
   return (
     <div className="App">
       <div className=" flex justify-center items-center bg-black h-[100vh] w-full pt-10">
