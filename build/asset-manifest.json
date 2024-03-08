@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f356cd14.css",
+    "main.js": "/static/js/main.e24dcb63.js",
+    "static/js/453.f924e8ab.chunk.js": "/static/js/453.f924e8ab.chunk.js",
+    "static/media/FaceCoinImg.png": "/static/media/FaceCoinImg.f6cf5599766431d625f2.png",
+    "static/media/FaceSkullImg.png": "/static/media/FaceSkullImg.51f2977b1afd71ad297b.png",
+    "index.html": "/index.html",
+    "main.f356cd14.css.map": "/static/css/main.f356cd14.css.map",
+    "main.e24dcb63.js.map": "/static/js/main.e24dcb63.js.map",
+    "453.f924e8ab.chunk.js.map": "/static/js/453.f924e8ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f356cd14.css",
+    "static/js/main.e24dcb63.js"
+  ]
+}
